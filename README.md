@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> This Plugin remade of LaggRemover and I have updated the bugs and errors that keeps the server crashing added new functions and particles detections
+> This Plugin is to troll those people who starts begging for rank right they joined the server
 
 
 
@@ -20,5 +20,5 @@ To install just download and move it on your PLUGIN folder and do /reload or /re
 
 >
 - Improved Permissions
-- RAM Usage Detection
+- Less RAM Usage
 - Improved Execution Time
